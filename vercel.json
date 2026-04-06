@@ -1,0 +1,1 @@
+{\n  "rewrites": [\n    {\n      "source": "/(.*)",\n      "destination": "clinton_county_executive_onepage.html"\n    }\n  ]\n}
